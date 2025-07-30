@@ -1,0 +1,22 @@
+{
+  "name": "projetos1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start-dev": "nodemon -e ts,json,mustache src/server.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Duarte",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "mustache-express": "^1.3.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/mustache-express": "^1.2.5",
+    "@types/node": "^24.1.0"
+  }
+}
