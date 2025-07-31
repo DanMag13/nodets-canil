@@ -1,4 +1,4 @@
-# nodets-canil1
+# nodets-canil
 Projeto feito no módulo do curso de node + typescript
 
 ### Pré -requisitos globais:
